@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="log_level">
+        <item>Erreur</item>
+        <item>Avertissement</item>
+        <item>Info</item>
+        <item>Débogage</item>
+        <item>Étendu</item>
+    </string-array>
+    <string-array name="log_level_val">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+    <string-array name="layout_type">
+        <item>Liste</item>
+        <item>Grille</item>
+        <item>Grille Compacte</item>
+    </string-array>
+    <string-array name="layout_type_val">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="app_theme">
+        <item>Clair</item>
+        <item>Sombre</item>
+        <item>Identique aux paramètres système</item>
+    </string-array>
+    <string-array name="app_theme_val">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>
